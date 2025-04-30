@@ -1,6 +1,2 @@
-### Building solutions that bring real value to humanity is my passion. I began my career as a civil engineer, but soon realized that my potential to make a broader impact lay elsewhere.
-### Today, I specialize in **Autonomous Vehicle Control Engineering**, with a strong focus on **ADAS** and **CASE (Connected, Autonomous, Shared, Electric) technologies** and **Software Engineering**, where a single innovation can touch millions of lives. I am committed to creating intelligent, scalable, and transformative mobility solutions that shape the future of transportation and enhance the human experience.
-
 ### **Building solutions that bring real value to humanity is my passion. I began my career as a civil engineer, but soon realized that my potential to make a broader impact lay elsewhere.**
-
 ### Today, I specialize in **Autonomous Vehicle Control Engineering**, with a strong focus on **ADAS** and **CASE (Connected, Autonomous, Shared, Electric) technologies** and **Software Engineering**, where a single innovation can touch millions of lives. I am committed to creating intelligent, scalable, and transformative mobility solutions that shape the future of transportation and enhance the human experience.
